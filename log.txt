@@ -1,2 +1,3 @@
 0768. 🎨 style: remove trailing whitespace
 0448. 🐛 fix: correct typo in registration form
+0835. 🐛 fix: prevent crash on empty input
