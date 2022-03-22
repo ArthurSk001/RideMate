@@ -9,3 +9,4 @@
 0683. ✅ test: mock database connection in test suite
 0965. 🎨 style: reformat files with black
 0359. 🔧 refactor: clean up auth middleware
+0978. 🐛 fix: prevent crash on empty input
