@@ -17,3 +17,4 @@
 0912. 📚 docs: document token refresh logic
 0062. ♻️ chore: update .gitignore
 0455. ♻️ chore: clean up unused files
+0603. 🐛 fix: fix broken CSS in mobile view
