@@ -19,3 +19,4 @@
 0455. ♻️ chore: clean up unused files
 0603. 🐛 fix: fix broken CSS in mobile view
 0559. 🔧 refactor: split large controller into smaller functions
+0390. 🎨 style: standardize quote style
