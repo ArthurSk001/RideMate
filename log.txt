@@ -31,3 +31,4 @@
 0349. ✅ test: increase coverage on auth module
 0067. 🔧 refactor: remove redundant code blocks
 0607. 🐛 fix: prevent crash on empty input
+0620. ✨ feat: implement quiz timer feature
