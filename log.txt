@@ -39,3 +39,4 @@
 0471. ✨ feat: support email verification
 0107. 🐛 fix: prevent crash on empty input
 0306. 🎨 style: apply consistent indentation
+0298. ♻️ chore: update .gitignore
