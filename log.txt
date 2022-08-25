@@ -42,3 +42,4 @@
 0298. ♻️ chore: update .gitignore
 0177. 📚 docs: add API usage examples
 0075. ✅ test: mock database connection in test suite
+0563. 📚 docs: clarify environment setup
