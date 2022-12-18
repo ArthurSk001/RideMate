@@ -51,3 +51,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0038. 🎨 style: rename variables for clarity
 0369. 🎨 style: standardize quote style
+0536. ✨ feat: add user authentication
