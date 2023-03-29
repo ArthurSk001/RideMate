@@ -64,3 +64,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0084. 🐛 fix: handle 500 error in quiz API
 0225. 🚀 perf: reduce image load time
+0419. 🎨 style: remove trailing whitespace
