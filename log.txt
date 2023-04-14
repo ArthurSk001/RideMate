@@ -66,3 +66,4 @@
 0225. 🚀 perf: reduce image load time
 0419. 🎨 style: remove trailing whitespace
 0486. ✨ feat: add export to CSV option
+0135. ✅ test: test user registration edge cases
