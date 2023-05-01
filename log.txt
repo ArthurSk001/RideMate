@@ -68,3 +68,4 @@
 0486. ✨ feat: add export to CSV option
 0135. ✅ test: test user registration edge cases
 0449. ✅ test: add unit test for quiz service
+0845. 🚀 perf: cache repeated calculations
