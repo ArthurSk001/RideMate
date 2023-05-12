@@ -70,3 +70,4 @@
 0449. ✅ test: add unit test for quiz service
 0845. 🚀 perf: cache repeated calculations
 0251. ♻️ chore: update .gitignore
+0921. 🐛 fix: correct typo in registration form
