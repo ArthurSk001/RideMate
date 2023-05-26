@@ -73,3 +73,4 @@
 0921. 🐛 fix: correct typo in registration form
 0864. 🐛 fix: correct typo in registration form
 0623. 🎨 style: standardize quote style
+0690. 🚀 perf: lazy-load components
