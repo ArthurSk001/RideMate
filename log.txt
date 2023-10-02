@@ -89,3 +89,4 @@
 0080. ✨ feat: support email verification
 0172. 📚 docs: add API usage examples
 0212. 🎨 style: standardize quote style
+0855. 🎨 style: reformat files with black
