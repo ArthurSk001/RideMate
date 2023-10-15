@@ -92,3 +92,4 @@
 0855. 🎨 style: reformat files with black
 0273. 🚀 perf: reduce image load time
 0671. 🐛 fix: fix null pointer exception on login
+0354. 📚 docs: add API usage examples
