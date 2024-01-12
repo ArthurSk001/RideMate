@@ -109,3 +109,4 @@
 0884. 📚 docs: clarify environment setup
 0013. ✅ test: increase coverage on auth module
 0307. ✨ feat: support email verification
+0313. 🎨 style: apply consistent indentation
