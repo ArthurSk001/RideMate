@@ -111,3 +111,4 @@
 0307. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
 0023. 📚 docs: clarify environment setup
+0301. 🎨 style: apply consistent indentation
