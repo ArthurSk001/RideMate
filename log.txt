@@ -114,3 +114,4 @@
 0301. 🎨 style: apply consistent indentation
 0873. 🚀 perf: cache repeated calculations
 0404. 📚 docs: improve code comments in utils
+0185. 📚 docs: write FAQ section
