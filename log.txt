@@ -120,3 +120,4 @@
 0720. ✨ feat: add export to CSV option
 0432. 🎨 style: apply consistent indentation
 0740. 🐛 fix: resolve issue with date parsing
+0373. 📚 docs: document token refresh logic
