@@ -125,3 +125,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0304. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
+0186. ✅ test: test user registration edge cases
