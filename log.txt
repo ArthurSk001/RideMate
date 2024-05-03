@@ -126,3 +126,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
 0186. ✅ test: test user registration edge cases
+0805. ♻️ chore: add GitHub actions badge
