@@ -130,3 +130,4 @@
 0750. 🎨 style: apply consistent indentation
 0227. ✅ test: test user registration edge cases
 0100. ♻️ chore: update .gitignore
+0277. 🎨 style: standardize quote style
