@@ -139,3 +139,4 @@
 0599. ✅ test: test user registration edge cases
 0858. ♻️ chore: clean up unused files
 0707. 🎨 style: apply consistent indentation
+0450. 🐛 fix: fix broken CSS in mobile view
