@@ -152,3 +152,4 @@
 0241. 📚 docs: add API usage examples
 0523. ♻️ chore: bump dependencies
 0209. ✨ feat: implement quiz timer feature
+0009. ✨ feat: enable dark mode toggle
