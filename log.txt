@@ -158,3 +158,4 @@
 0124. 🎨 style: reformat files with black
 0774. 🔧 refactor: refactor quiz grading logic
 0079. 🐛 fix: correct typo in registration form
+0208. 🔧 refactor: clean up auth middleware
