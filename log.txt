@@ -164,3 +164,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0398. 🚀 perf: cache repeated calculations
 0211. 🔧 refactor: remove redundant code blocks
+0900. 🐛 fix: handle 500 error in quiz API
