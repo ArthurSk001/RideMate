@@ -165,3 +165,4 @@
 0398. 🚀 perf: cache repeated calculations
 0211. 🔧 refactor: remove redundant code blocks
 0900. 🐛 fix: handle 500 error in quiz API
+0595. ✨ feat: enable dark mode toggle
