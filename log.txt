@@ -166,3 +166,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0900. 🐛 fix: handle 500 error in quiz API
 0595. ✨ feat: enable dark mode toggle
+0531. 🐛 fix: prevent crash on empty input
