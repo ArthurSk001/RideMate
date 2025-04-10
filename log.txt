@@ -171,3 +171,4 @@
 0769. ✨ feat: create admin dashboard
 0276. ✅ test: add integration test for /submit endpoint
 0064. 📚 docs: clarify environment setup
+0436. ✅ test: add integration test for /submit endpoint
