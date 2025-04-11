@@ -172,3 +172,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0064. 📚 docs: clarify environment setup
 0436. ✅ test: add integration test for /submit endpoint
+0781. 🚀 perf: reduce image load time
