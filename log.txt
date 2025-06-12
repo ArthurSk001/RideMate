@@ -181,3 +181,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
+0922. 📚 docs: write FAQ section
