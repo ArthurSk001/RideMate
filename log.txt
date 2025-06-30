@@ -186,3 +186,4 @@
 0508. ✅ test: add unit test for quiz service
 0649. 📚 docs: update README with setup steps
 0612. ✅ test: test user registration edge cases
+0076. 🎨 style: reformat files with black
